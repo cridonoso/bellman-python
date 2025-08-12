@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# C extensions
+*.pyd
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.archetypes
+*.egg
+
+# Editors
+.vscode/        # VS Code
+.idea/          # IntelliJ IDEA
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+
+# virtualenv
+.venv/
+bin/
+include/
+lib/
+lib64/
+
+# Jupyter Notebook
+.ipynb_checkpoints
